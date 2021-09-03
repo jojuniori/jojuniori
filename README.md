@@ -1,7 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-![jojuniori's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojuniori&show_icons=true&theme=dracula)  
-![jojuniori's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojuniori&layout=compact&theme=dracula)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jojuniori&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojuniori&layout=compact&theme=buefy" />
+<div>
 
 
 <!--
